@@ -63,14 +63,14 @@ cp .env.example .env
 
 ---
 
-## Running Tests
+Running Tests
 
-- **Run all tests (Chromium, headed mode with slowMo for visibility):**
+- Run all tests (Chromium, headed mode with slowMo for visibility):
   -bash
   npx playwright test --project=chromium
   
 
-- **View HTML test report:**
+- View HTML test report:
   -bash
   npx playwright show-report
   
