@@ -65,7 +65,7 @@ cp .env.example .env
 
 Running Tests
 
-- Run all tests (Chromium, headed mode with slowMo for visibility):
+- Run all tests:
   -bash
   npx playwright test --project=chromium
   
