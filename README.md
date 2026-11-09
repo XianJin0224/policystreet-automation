@@ -15,16 +15,16 @@ Project Structure
 
 ```text
 policystreet-automation/
-├── .github/workflows/    # CI pipeline running tests on push
-├── pages/                # Page Object classes (locators & UI actions)
+├── .github/workflows/   
+├── pages/                
 │   ├── LoginPage.ts
 │   └── ForgotPasswordPage.ts
-├── tests/                # Test specifications
+├── tests/                
 │   ├── login.spec.ts
 │   └── forgotPassword.spec.ts
-├── .env.example          # Sample environment variables
-├── playwright.config.ts  # Playwright runner configuration
-└── tsconfig.json         # TypeScript compiler configuration
+├── .env.example          
+├── playwright.config.ts  
+└── tsconfig.json         
 ```
 
 ---
