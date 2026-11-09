@@ -1,6 +1,6 @@
 # Playwright Automation Test Suite
 
-Hi! 👋 This repository contains an automated end-to-end test suite built with **Playwright** and **TypeScript**, targeting test scenarios on [The Internet (Herokuapp)](https://the-internet.herokuapp.com).
+Hi, This repository contains an automated end-to-end test suite built with **Playwright** and **TypeScript**, targeting test scenarios on [The Internet (Herokuapp)](https://the-internet.herokuapp.com).
 
 ---
 - **Language:** TypeScript
